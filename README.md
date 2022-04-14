@@ -1,3 +1,9 @@
+## this is taggit-sean/DirectShow.Net/
+
+This is a personal development branch, forked from the below to primarily pin a version in place, and possibly mess around with for my own needs. Refer to the below. 
+
+### **forked from https://github.com/RWeigelt/DirectShow.Net** : 
+
 # RWeigelt/DirectShow.Net
 
 A fork of [DirectShow.Net](https://sourceforge.net/projects/directshownet/) version 2.1 (released February 22, 2010) which was published on [SourceForge](https://sourceforge.net/projects/directshownet/files/DirectShowNET/v2.1/) under the Lesser General Public License Version 2.1. 
